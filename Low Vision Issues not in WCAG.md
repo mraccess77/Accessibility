@@ -6,5 +6,5 @@ This page lists issues that impact low vision users that are not in WCAG
 * Inability to change fonts without font icons disappearing
 * Thin fonts
 * Support for high contrast mode and color changes without loss of content or functionality
-[Accessibility Requirements for People with Low Vision](https://www.w3.org/TR/low-vision-needs/)
+* [Accessibility Requirements for People with Low Vision](https://www.w3.org/TR/low-vision-needs/)
 
