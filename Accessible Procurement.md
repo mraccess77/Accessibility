@@ -18,5 +18,6 @@ http://mandate376.standards.eu/procurement-stages/writing-a-call-for-tenders/7b0
 https://www.deque.com/blog/3rd-party-vendor-management/ 
 https://www.nyu.edu/life/information-technology/help-and-service-status/accessibility/procurement-and-requirements.html#Procurement 
 [Accessible Requirements Tool](https://www.section508.gov/buy/accessibility-requirements-tool)
+[Accessible Procurement Guidelines Canada](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32620&section=html)
 
 
