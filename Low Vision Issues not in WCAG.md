@@ -8,4 +8,7 @@ This page lists issues that impact low vision users that are not in WCAG
 * Support for high contrast mode and color changes without loss of content or functionality
 * [Accessibility Requirements for People with Low Vision](https://www.w3.org/TR/low-vision-needs/)
 * Access to alternative text (UAAG)
+* Panels that can't be closed up and take up screen realestate - asumption that everyone has a wide screen monitor.
+* Text that is smaller at lower resolutions and larger at higher resolutions.
+* 
 
