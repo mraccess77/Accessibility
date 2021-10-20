@@ -1,7 +1,7 @@
 SC 1.4.11 covers non-text contrast aspects including the visual indication of focus
 
-==How the criterion relates to focus indication
-===What it does not do
+##How the criterion relates to focus indication
+###What it does not do
 * does not specify a size, location, or style of the focus indicator
 * does not address contrast difference betwen focused and unfocused states
 
