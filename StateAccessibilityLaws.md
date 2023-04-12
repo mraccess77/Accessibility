@@ -1,6 +1,6 @@
-# California - California Government Code Section 11135-11139.5: This law requires that all electronic and information technology developed or purchased by the state of California or any of its agencies be accessible to people with disabilities. This includes websites, web applications, and other digital content.
+1. California - California Government Code Section 11135-11139.5: This law requires that all electronic and information technology developed or purchased by the state of California or any of its agencies be accessible to people with disabilities. This includes websites, web applications, and other digital content.
 
-# New York - New York State Office of Information Technology Services Accessibility Policy: This policy requires that all state websites and web-based applications be accessible to people with disabilities in accordance with the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA.
+1. New York - New York State Office of Information Technology Services Accessibility Policy: This policy requires that all state websites and web-based applications be accessible to people with disabilities in accordance with the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA.
 
 # Massachusetts - Massachusetts Information Technology Division (ITD) Web Accessibility Standards: This standard requires all state agencies to make their websites and web-based applications accessible to people with disabilities in accordance with the WCAG 2.1 Level AA.
 
